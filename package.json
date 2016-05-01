@@ -1,0 +1,17 @@
+{
+    "name": "nunjucks-markdown-filter",
+    "version": "0.1.0",
+    "description": "Nunjucks filter for converting a string to markdown",
+    "author": "Matt Brophy <matt@brophy.org> (http://www.brophy.org/)",
+    "main": "index.js",
+    "scripts": {
+        "test": "./node_modules/.bin/jasmine"
+    },
+    "license": "MIT",
+    "devDependencies": {
+       "jasmine": "2.4.1"
+    },
+    "dependencies": {
+       "marked": "0.3.5"
+    }
+}
